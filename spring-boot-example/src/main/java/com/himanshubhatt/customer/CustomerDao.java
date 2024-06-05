@@ -1,7 +1,10 @@
 package com.himanshubhatt.customer;
 
+import org.springframework.stereotype.Repository;
+
 import java.util.List;
 import java.util.Optional;
+
 
 public interface CustomerDao {
 
